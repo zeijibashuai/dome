@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 100px;
+}
+
+body{
+    background:url("img/indexpic_53.jpg");
+    width: 100%;
+    height: 100%;
+}
+.main{
+    position: absolute;
+    margin-top: 0.3rem;
+    left: 50%;
+    margin-left: -5.025rem;
+    width: 10.05rem;
+    height: 8.45rem;
+    background-color: #fefefe ;
+    padding: 0.06rem;
+}
+.main .top a{
+    /*overflow: hidden;*/
+    height: 0rem;
+
+}
+.main .top a{
+    width: 9.9rem;
+    height: 2.5rem;
+    background: darkred;
+}
+.main .top a img{
+    width: 100%;
+    height: 100%;
+
+}
+.top{
+    overflow: hidden;
+    height: 2.56rem;
+    margin-bottom: 0.05rem;
+}
+.left{
+    float: left;
+}
+
+.fugai{
+    margin-top: -0.4rem;
+    float: right;
+    width: 7.9rem;
+    height: 0.2rem;
+    background-color: #4a4738;
+    /*margin-top: 0.2rem;*/ line-height: 0.2rem;
+    font-size: 0.16rem;
+    color: #b5b2a7;
+}
+.long{
+    float: right;
+    /*margin-top: -0.2rem;*/
+    width: 7.9rem;
+    height: 0.4rem;
+    background-color: #292315;
+
+
+}
+.fugai span{
+    float: left;
+    margin-left:0.36rem;
+    height: 0.4rem;
+    line-height: 0.4rem;
+
+
+}
+
+.fugai img{
+    float: left;
+    margin-left: 0.26rem;
+    display: inline-block;
+    margin-right: 0.06rem;
+
+}
+
+.right{
+    float: right;
+    width: 7.96rem;
+    height: 5.56rem;
+    background: #e2e3d5;
+
+}
+.neirong{
+    padding: 1rem;
+}
+.neirong img{
+    float: left;
+    margin-right: 0.16rem;
+}
+.neirong p{
+    font-size: 0.16rem;
+    margin-left: 0.08rem;
+}
+
+.shang{
+    margin: 0;
+    padding: 0;
+    font-size: 0.16rem;
+
+    height: 2.69rem;
+    width: 2rem;
+    background-color: #e3e3d5 ;
+}
+.logo1{
+    width: 2rem;
+    height: 0.39rem;
+    background: linear-gradient( #4a4738 50%,#292315 50%);
+    font-size: 0.22rem;
+    line-height: 0.39rem;
+    text-align: center;
+    color: #cccbc6;
+}
+.imgs{
+    height: 2.69rem;
+    width: 2rem;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.2rem;
+}
+.imgs img{
+    margin-left: 0.36rem ;
+    margin-top: 0.06rem;
+
+}
+.logo2{
+    width: 2rem;
+    height: 0.39rem;
+    background: linear-gradient( #4a4738 50%,#292315 50%);
+    font-size: 0.22rem;
+    line-height: 0.39rem;
+    text-align: center;
+    color: #cccbc6;
+}
+.xia{
+    width: 2rem;
+    height: 2.85rem;
+    background: #e2e3d5;
+}
+.font{
+    font-size: 0.13rem;
+    padding: 0.23rem;
+}
+li{
+    list-style: none;
+    margin-bottom: 0.09rem;
+}
+
+.footer{
+    float: left;
+    z-index: 666;
+    width: 10.05rem;
+    height: 0.84rem;
+    background-color: #4a4738;
+    font-size: 0.16rem;
+    margin-top: -0.56rem;
+    text-shadow: 3px 2px 3px #000;
+}
+.alist{
+
+    height: 0.42rem;
+
+    text-align: center;
+    margin-top: 0.08rem;
+}
+.alist span{
+    display: inline-block;
+    line-height: 0.16rem;
+    text-align: center;
+    vertical-align: middle;
+    height:0.16rem;
+    border-left: 1px solid #cccbc6;;
+    margin-left: 0.1rem;
+
+}
+.alist a{
+    line-height: 0.42rem;
+    text-align: center;
+    font-size: 0.12rem;
+    margin-left: 0.06rem;
+    text-decoration-line: none;
+    color: #cccbc6;
+}
+.banquan{
+    font-size: 0.12rem;
+    text-align: center;
+    color: #cccbc6;
+    margin-top: 0.01rem;
+
+}
